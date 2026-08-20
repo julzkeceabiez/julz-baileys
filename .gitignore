@@ -1,0 +1,8 @@
+node_modules/
+.npm/
+.yarn/
+*.tgz
+*.log
+.DS_Store
+.env
+.env.*
